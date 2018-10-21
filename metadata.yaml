@@ -1,5 +1,5 @@
 _repo: The-Mayflower-and-Her-Log-July-15-1620-May-6-1621-Volume-6_4106
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Massachusetts -- History -- New Plymouth, 1620-1691'
 - !lcc 'F001'
 - !lcsh 'Pilgrims (New Plymouth Colony)'
+- GITenberg
 title: The Mayflower and Her Log; July 15, 1620-May 6, 1621 — Volume 6
 url: http://www.gutenberg.org/ebooks/4106
